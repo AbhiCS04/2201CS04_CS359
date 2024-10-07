@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build TelnetClient",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "TelnetClient.c",
+                "-o",
+                "TelnetClient.exe",
+                "-lws2_32"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": ["$gcc"],
+            "detail": "Generated task"
+        }
+    ]
+}
