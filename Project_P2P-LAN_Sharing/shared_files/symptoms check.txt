@@ -1,0 +1,11 @@
+small_dents_in_nails, inflammatory_nails
+itching
+skin_rash, yellow_crust_ooze
+chest_pain, weakness_in_limbs, fast_heart_rate
+stomach_pain, acidity
+nausea, loss_of_appetite
+scurring, skin_peeling, silver_like_dusting
+diarrhoea, mild_fever, yellow_urine
+red_sore_around_nose
+pain_in_anal_region, bloody_stool, irritation_in_anus
+burning_micturition, spotting_ urination
