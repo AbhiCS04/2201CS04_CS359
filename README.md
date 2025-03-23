@@ -22,3 +22,20 @@ File Transfer Protocol: TCP, UDP, or FTP for efficient file transfers. <br>
 Database: SQLite to store user data, file metadata, and search indexes. <br>
 Compatibility: Works on Windows, macOS, and Linux. <br>
 This project brings seamless file sharing to LAN environments with a focus on usability, flexibility, and scalability. <br>
+
+#### Steps to execute project-
+##### activate virtual environment 
+.\env\Scripts\activate
+##### Now, install all dependencies that is in requirements.txt
+pip install -r requirements.txt
+##### Run server first
+python server.py
+##### Then open another terminal and activate virtual environment
+.\env\Scripts\activate
+##### Then, Run client that will open frontend in browser
+streamlit run client.py
+##### Final step:
+Now, Copy IP address of server from server terminal where we executed 'python server.py' <br>
+Then paste that IP on server link left side option on frontend page, then press enter. <br>
+Now, Our P2P sharing setup is complete Anyuser can login or signup and share data and also rate files. <br>
+For more details about feature refer to youtube video Link given above. <br>
