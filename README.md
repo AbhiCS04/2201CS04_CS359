@@ -25,6 +25,7 @@ This project brings seamless file sharing to LAN environments with a focus on us
 
 #### Steps to execute project-
 ##### activate virtual environment 
+(run this command if your machine do not have virtual environment folder named env- "python -m venv env")
 .\env\Scripts\activate
 ##### Now, install all dependencies that is in requirements.txt
 pip install -r requirements.txt
@@ -45,7 +46,7 @@ Now, Copy IP address of server from server terminal where we executed 'python se
 Then paste that IP on server link left side option on frontend page, then press enter. <br>
 ![Screenshot 2025-03-23 212608](https://github.com/user-attachments/assets/707191a3-7a3a-45fe-aa5e-74e65b1e01da)
 
-Now, Our P2P sharing setup is complete Anyuser can login or signup and share data and also rate files. <br>
+Now, Our P2P sharing setup is complete Any user can login or signup and share data and also rate files. <br>
 ![Screenshot 2025-03-23 212620](https://github.com/user-attachments/assets/9a5af992-1df0-425a-aa8c-2999b0e56143)
 
 For more details about feature refer to youtube video Link given above. <br>
