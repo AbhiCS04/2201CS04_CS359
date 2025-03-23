@@ -38,6 +38,7 @@ python server.py
 .\env\Scripts\activate
 ##### Then, Run client that will open frontend in browser
 streamlit run client.py
+![Screenshot 2025-03-23 212253](https://github.com/user-attachments/assets/6c659c1b-e42c-4f85-beb0-dc3d280e9975)
 
 ##### Final step:
 Now, Copy IP address of server from server terminal where we executed 'python server.py' <br>
