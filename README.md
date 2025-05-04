@@ -29,9 +29,12 @@ First clone this repository in your machine, Run-
 git clone [https://github.com/AbhiCS04/2201CS04_CS359.git](https://github.com/AbhiCS04/2201CS04_CS359.git)
 
 then setup things as of your need.
-Then goto folrder "Project_P2P-LAN_Sharing".
-cd Project_P2P-LAN_Sharing
-Then execute these commands
+
+Then goto folder "Project_P2P-LAN_Sharing".
+
+Run- cd Project_P2P-LAN_Sharing
+
+Then execute these commands:
 
 ##### Activate virtual environment 
 (run this command if your machine do not have virtual environment folder named env- "python -m venv env")
