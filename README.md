@@ -26,11 +26,14 @@ This project brings seamless file sharing to LAN environments with a focus on us
 #### Steps to execute project-
 First clone this repository in your machine, Run-
 
-git clone https://github.com/AbhiCS04/2201CS04_CS389_Innovation_Lab.git
+git clone [https://github.com/AbhiCS04/2201CS04_CS359.git](https://github.com/AbhiCS04/2201CS04_CS359.git)
 
 then setup things as of your need.
+Then goto folrder "Project_P2P-LAN_Sharing".
+cd Project_P2P-LAN_Sharing
+Then execute these commands
 
-##### activate virtual environment 
+##### Activate virtual environment 
 (run this command if your machine do not have virtual environment folder named env- "python -m venv env")
 .\env\Scripts\activate
 ##### Now, install all dependencies that is in requirements.txt
