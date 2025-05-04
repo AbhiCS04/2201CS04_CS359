@@ -24,6 +24,12 @@ Compatibility: Works on Windows, macOS, and Linux. <br>
 This project brings seamless file sharing to LAN environments with a focus on usability, flexibility, and scalability. <br>
 
 #### Steps to execute project-
+First clone this repository in your machine, Run-
+
+git clone https://github.com/AbhiCS04/2201CS04_CS389_Innovation_Lab.git
+
+then setup things as of your need.
+
 ##### activate virtual environment 
 (run this command if your machine do not have virtual environment folder named env- "python -m venv env")
 .\env\Scripts\activate
